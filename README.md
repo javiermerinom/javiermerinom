@@ -18,10 +18,4 @@ With 12+ years of experience applying data analysis in the telecommunications in
 
 ---
 
-## 📫 Connect with Me  
-
-- 💼 [LinkedIn](https://linkedin.com/in/jmerinom)  
-- 📧 Email: javier.merino.maldonado@gmail.com  
-
----
 ✨ Always learning, building, and exploring how data can drive better decisions.  
