@@ -2,7 +2,9 @@
 
 🎓 Data Analyst | 📊 Data Science Enthusiast | 🌎 Based in Vancouver, BC  
 
-I’m passionate about using data to solve problems, uncover insights, and build solutions that make an impact. With 12+ years of experience applying data analysis in the telecommunications industry in Ecuador and advanced training in Data Analytics at Langara College, I bridge strong business knowledge with technical expertise in analytics, machine learning, and data engineering.  
+I’m passionate about using data to solve problems, uncover insights, and build solutions that make an impact. 
+
+With 12+ years of experience applying data analysis in the telecommunications industry in Ecuador and advanced training in Data Analytics at Langara College, I bridge strong business knowledge with technical expertise in analytics, machine learning, and data engineering.  
 
 ---
 
