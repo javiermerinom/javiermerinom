@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Javier Merino  
+# Hello there 👋, I'm Javier Merino  
 
 🎓 Data Analyst | 📊 Data Science Enthusiast | 🌎 Based in Vancouver, BC  
 
 I’m passionate about using data to solve problems, uncover insights, and build solutions that make an impact. 
+
 With 12+ years of experience applying data analysis in the telecommunications industry in Ecuador and advanced training in Data Analytics at Langara College, I bridge strong business knowledge with technical expertise in analytics, machine learning, and data engineering.  
 
 ---
@@ -14,13 +15,6 @@ With 12+ years of experience applying data analysis in the telecommunications in
 **Visualization:** Power BI, Tableau, Streamlit, Matplotlib, Seaborn  
 **Databases & Cloud:** PostgreSQL, Fabric
 **Other:** Git/GitHub, Jupyter, R Markdown 
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiermerinom&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javiermerinom&layout=compact)  
 
 ---
 
