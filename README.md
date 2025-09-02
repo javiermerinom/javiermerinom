@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Javier Merino  
+# Hello there 👋
 
 🎓 Data Analyst | 📊 Data Science Enthusiast | 🌎 Based in Vancouver, BC  
 
